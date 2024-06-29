@@ -118,16 +118,12 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-top: 10px;
-/*     flex-grow: 1; */
-    
+    margin-top: 10px;   
 }
 
 .popular-card{
     width: 300px;
-    height: 50%;
-    flex-grow: 1;
-    
+    height: 50%;  
 }
 
 .popular-card img{
